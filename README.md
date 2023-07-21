@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+This Flutter project made me to use navigator class and many more widgets of flutter
+
+
+https://github.com/arshiaasatvati/Mini_Blog_Application/assets/138293483/e895b2a9-3173-4147-a37f-e9498469a9bd
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
